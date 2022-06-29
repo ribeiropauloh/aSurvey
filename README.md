@@ -5,6 +5,7 @@
 <!-- badges: end -->
 
 The goal of aSurvey is to ...
+The goal of aSurvey is to optimize aerial survey data.
 
 ## Installation
 
